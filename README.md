@@ -11,10 +11,10 @@
 </div>
 
 ## 🎲 Hackathons & Experience
-* **[2025 Chungnamthon]** – Eco-friendly Local Tourism Map App | **Backend Engineer** [Link to Repo]
-* **[2025 Deep Dive Hackathon]** – Continuous Caregiving & Healthcare Service App | **Backend Engineer** [Link to Repo]
-* **[Goormthon in Pangyo]** – Computer Science & Developer Community Board | **Full-stack Developer** [Link to Repo]server-side logic.
-* **[2025 Goormthon univ Seasonthon]** – Personalized Career Guide Platform for Youth | **Frontend Engineer** [Link to Repo]
+* **[2025 Chungnamthon]** – Eco-friendly Local Tourism Map App | **Backend Engineer** [[Link to Repo]](https://github.com/kthowns/econavi-app) 
+* **[2025 Deep Dive Hackathon]** – Continuous Caregiving & Healthcare Service App | **Backend Engineer** [[Link to Repo]](https://github.com/kthowns/wecare-app) 
+* **[Goormthon in Pangyo]** – Computer Science & Developer Community Board | **Full-stack Developer** [[Link to Repo]](https://github.com/kthowns/joribhaejo-web) 
+* **[2025 Goormthon univ Seasonthon]** – Personalized Career Guide Platform for Youth | **Frontend Engineer** [[Link to Repo]](https://github.com/kthowns/2025_SEASONTHON_TEAM_85_FE) 
 ---
 
 ## 🎖 Awards
