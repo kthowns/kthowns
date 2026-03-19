@@ -1,1 +1,25 @@
+## 🛠 Tech Stack
 
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kthowns)](https://github.com/anuraghazra/github-readme-stats)|
+| **Backend** | <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"> <img src="https://img.shields.io/badge/JSP-007396?style=flat&logo=Java&logoColor=white"> <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white"> |
+| **Infrastructure** | <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=black"> |
+| **Database** | <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white"> |
+| **Frontend/App** | <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white"> <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black"> |
+
+---
+## 🎲 Hackathons & Experience
+* **[2025 Chungnamthon]** – Eco-friendly Local Tourism Map App | **Backend Engineer** [Link to Repo]
+* **[2025 Deep Dive Hackathon]** – Continuous Caregiving & Healthcare Service App | **Backend Engineer** [Link to Repo]
+* **[Goormthon in Pangyo]** – Computer Science & Developer Community Board | **Full-stack Developer** [Link to Repo]server-side logic.
+* **[2025 Goormthon univ Seasonthon]** – Personalized Career Guide Platform for Youth | **Frontend Engineer** [Link to Repo]
+---
+
+## 🎖 Awards
+
+* **[DeepDive Full-stack Bootcamp]** – **Outstanding Project Award (Top Tier)** (Feb 2026)
+* **[Daegyeong Region University Programming Contest]** – **Bronze Prize** (July 2023)
+* **[Regional Skills Competition]** – **Silver Prize in IT Network System** (Apr 2017)
+
+---
