@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[본인ID]&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kthowns&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
 
 ---
