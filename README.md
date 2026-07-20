@@ -52,10 +52,10 @@
 ---
 
 ## 🎲 Hackathons & Experience
-* **[2025 충남톤]** – 환경 친화적 로컬 관광 지도 애플리케이션, **EcoNavi** | **Backend Engineer** [[Link to Repo]](https://github.com/kthowns/econavi-app) 
-* **[2025 구름 딥다이브 해커톤 ]** – 지속적인 돌봄과 헬스케어를 위한 모바일 애플리케이션, **Wecare** | **Backend Engineer** [[Link to Repo]](https://github.com/kthowns/wecare-app) 
-* **[구름톤 in 판교]** – 컴퓨터 & 개발 커뮤니티 웹 플랫폼 | **Full-stack Developer** [[Link to Repo]](https://github.com/kthowns/joribhaejo-web) 
-* **[2025 구름톤 univ 시즌톤]** – 개인화 청년 맞춤형 커리어 가이드 크로스플랫폼 애플리케이션, **Future-Finder** | **Frontend Engineer** [[Link to Repo]](https://github.com/kthowns/2025_SEASONTHON_TEAM_85_FE)
+* **[2025 충남톤]** – 환경 친화적 로컬 관광 지도 애플리케이션, **EcoNavi** | **Backend Engineer** [[Git Repo]](https://github.com/kthowns/econavi-app) 
+* **[2025 구름 딥다이브 해커톤 ]** – 지속적인 돌봄과 헬스케어를 위한 모바일 애플리케이션, **Wecare** | **Backend Engineer** [[Git Repo]](https://github.com/kthowns/wecare-app) 
+* **[구름톤 in 판교]** – 컴퓨터 & 개발 커뮤니티 웹 플랫폼 | **Full-stack Developer** [[Git Repo]](https://github.com/kthowns/joribhaejo-web) 
+* **[2025 구름톤 univ 시즌톤]** – 개인화 청년 맞춤형 커리어 가이드 크로스플랫폼 애플리케이션, **Future-Finder** | **Frontend Engineer** [[Git Repo]](https://github.com/kthowns/2025_SEASONTHON_TEAM_85_FE)
 
 ---
 
