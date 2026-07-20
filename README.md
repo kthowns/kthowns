@@ -10,17 +10,59 @@
 
 </div>
 
+---
+
+## Introduce
+### **협업에 진심입니다**
+- 다수의 해커톤과 팀 단위 프로젝트에서 협업을 주도한 경험이 있습니다.
+- 팀의 분위기에 맞는 가장 적절한 협업 툴을 정의하고 효율적인 소통을 이끌어내고자 합니다.
+
+### **학습을 망설이지 않습니다**
+- 익숙한 기술에 얽매이기 보다는 더 적절하고 표준적인 기술 도입을 망설이지 않습니다.
+- 또한, 담당 포지션 이외의 작업이 필요하다면 곧바로 학습하고 기여하고자 노력합니다.
+
+---
+
+## 📂 Projects
+
+### 1. 개인 프로젝트 - Mobidic
+**Whisper 모델 기반의 AI 영어 단어장 크로스플랫폼 앱**
+* **관련 링크:** [[Google Play]](https://play.google.com/store/apps/details?id=com.kthowns.mobidic&pcampaignid=web_share) | [[웹 배포 링크]](https://mobidic.kthowns.cloud) | [[Git Repo]](https://github.com/kthowns/mobidic-be)
+* **개발 기간:** 2024.04 ~ 진행 중
+* **팀 구성:** 1인 프로젝트 / 기획, 디자인, 백엔드 API 설계/구현, 앱 개발, 서버 및 인프라 관리 담당
+* **주요 기술 스택** : Spring Boot 3.5.x, MySQL, Redis, QueryDSL, Docker, AWS, Flutter, Python (Whisper STT)
+> * 발음 평가를 위한 로컬 모델 연동(Whisper STT) 및 Redis 장애 극복을 위한 Fallback 메커니즘 설계
+> * Redis 일회용(One-time) UUID 토큰 검증 메커니즘을 통한 퀴즈 어뷰징 방지 및 기밀성 보장
+> * QueryDSL DTO Projection을 통한 복잡한 통계 집계 최적화 (2N+1 쿼리 해결)
+> * 모놀리식에서 실무형 헥사고날 아키텍처(Hexagonal Architecture)로의 전환 및 멀티 모듈 설계
+> * DDD(도메인 주도 설계) 기반의 도메인 모델 불변성 확보 및 표준 컴포넌트(Reader-Appender-Updater-Remover-Validator) 패턴 확립
+
+### 2. 팀 스파르타 Java 심화 과정 - Ordering Service API
+**Gemini API 기반 AI 상품 설명 및 리뷰 자동 답글 기능을 갖춘 배달 커머스 백엔드 플랫폼**
+* **관련 링크:** [[Swagger API 명세]](https://order.kthowns.cloud/api/api-docs) | [[Git Repo]](https://github.com/sparta-ordering-10TEAM/ordering-be)
+* **개발 기간:** 2026.07 (2주)
+* **팀 구성:** 5인 프로젝트 / 리뷰 및 AI 도메인 개발, GitHub 레포지토리 관리, Nginx HTTPS 기반 서버 배포 및 CI/CD 구축 담당
+* **주요 기술 스택** : Spring Boot 3.5.x, PostgreSQL 17, Docker, Nginx, GitHub Actions, Gemini API (RestClient)
+> * 외부 AI API 호출을 트랜잭션 외부로 격리하는 파사드(Facade) 아키텍처 설계를 통한 DB 커넥션 점유 단축 및 API 지연 시간 75% 이상 개선
+> * 공통 프롬프트 보안 가드레일(COMMON_GUARDRAILS) 설계를 통한 AI 프롬프트 인젝션(Prompt Injection) 방어 및 서비스 안전성 확보
+> * 중복 리뷰 방지를 위한 주문 테이블 비관적 락(Pessimistic Lock)을 배제하고 DB 고유 제약 조건을 활용한 예외 파싱 핸들링으로 락 병목 오버헤드 해소
+> * 음식점 평균 평점 반정규화 및 JPA @Modifying 서브쿼리 벌크 갱신 방식을 도입하여 동시성 문제를 방어하고 실시간 평점 집계 조회 N+1 문제 해결
+> * GitHub Actions, Docker 및 docker-compose 환경을 구축하여 빌드, 이미지 푸시, 서버 원격 배포 프로세스를 자동화한 CI/CD 파이프라인 수립
+
+---
+
 ## 🎲 Hackathons & Experience
-* **[2025 Chungnamthon]** – Eco-friendly Local Tourism Map App | **Backend Engineer** [[Link to Repo]](https://github.com/kthowns/econavi-app) 
-* **[2025 Deep Dive Hackathon]** – Continuous Caregiving & Healthcare Service App | **Backend Engineer** [[Link to Repo]](https://github.com/kthowns/wecare-app) 
-* **[Goormthon in Pangyo]** – Computer Science & Developer Community Board | **Full-stack Developer** [[Link to Repo]](https://github.com/kthowns/joribhaejo-web) 
-* **[2025 Goormthon univ Seasonthon]** – Personalized Career Guide Platform for Youth | **Frontend Engineer** [[Link to Repo]](https://github.com/kthowns/2025_SEASONTHON_TEAM_85_FE) 
+* **[2025 충남톤]** – 환경 친화적 로컬 관광 지도 애플리케이션, **EcoNavi** | **Backend Engineer** [[Link to Repo]](https://github.com/kthowns/econavi-app) 
+* **[2025 구름 딥다이브 해커톤 ]** – 지속적인 돌봄과 헬스케어를 위한 모바일 애플리케이션, **Wecare** | **Backend Engineer** [[Link to Repo]](https://github.com/kthowns/wecare-app) 
+* **[구름톤 in 판교]** – 컴퓨터 & 개발 커뮤니티 웹 플랫폼 | **Full-stack Developer** [[Link to Repo]](https://github.com/kthowns/joribhaejo-web) 
+* **[2025 구름톤 univ 시즌톤]** – 개인화 청년 맞춤형 커리어 가이드 크로스플랫폼 애플리케이션, **Future-Finder** | **Frontend Engineer** [[Link to Repo]](https://github.com/kthowns/2025_SEASONTHON_TEAM_85_FE)
+
 ---
 
 ## 🎖 Awards
 
-* **[DeepDive Full-stack Bootcamp]** – **Outstanding Project Award (Top Tier)** (Feb 2026)
-* **[Daegyeong Region University Programming Contest]** – **Bronze Prize** (July 2023)
-* **[Regional Skills Competition]** – **Silver Prize in IT Network System** (Apr 2017)
-
+* **[구름 DeepDive 풀스택 개발자 과정 4회차]** – 최종 팀프로젝트 **우수상** (Feb 2026)
+* **[대경권 대학생 프로그래밍 대회]** – **동상** (July 2023)
+* **[대구 정보보호경진대회 개인전]** – **우수상** (Dec 2017)
+* **[경북 지방 기능경기대회]** – IT Network System 종목 **은메달** (Apr 2017)
 ---
