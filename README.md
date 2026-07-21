@@ -33,7 +33,7 @@
 * **주요 기술 스택** : Spring Boot 3.5.x, MySQL, Redis, QueryDSL, Docker, AWS, Flutter, Python (Whisper STT)
 > * 발음 평가를 위한 로컬 모델 연동(Whisper STT) 및 Redis 장애 극복을 위한 Fallback 메커니즘 설계
 > * Redis 일회용(One-time) UUID 토큰 검증 메커니즘을 통한 퀴즈 어뷰징 방지 및 기밀성 보장
-> * QueryDSL DTO Projection을 통한 복잡한 통계 집계 최적화 (2N+1 쿼리 해결)
+> * QueryDSL DTO Projection을 통한 batch 조회로 복잡한 통계 집계 최적화 (2N+1 쿼리 해결)
 > * 모놀리식에서 실무형 헥사고날 아키텍처(Hexagonal Architecture)로의 전환 및 멀티 모듈 설계
 > * DDD(도메인 주도 설계) 기반의 도메인 모델 불변성 확보 및 표준 컴포넌트(Reader-Appender-Updater-Remover-Validator) 패턴 확립
 
@@ -45,7 +45,7 @@
 * **주요 기술 스택** : Spring Boot 3.5.x, PostgreSQL 17, Docker, Nginx, GitHub Actions, Gemini API (RestClient)
 > * 외부 AI API 호출을 트랜잭션 외부로 격리하는 파사드(Facade) 아키텍처 설계를 통한 DB 커넥션 점유 단축 및 API 지연 시간 75% 이상 개선
 > * 공통 프롬프트 보안 가드레일(COMMON_GUARDRAILS) 설계를 통한 AI 프롬프트 인젝션(Prompt Injection) 방어 및 서비스 안전성 확보
-> * 중복 리뷰 방지를 위한 주문 테이블 비관적 락(Pessimistic Lock)을 배제하고 DB 고유 제약 조건을 활용한 예외 파싱 핸들링으로 락 병목 오버헤드 해소
+> * 중복 리뷰 방지를 위한 주문 테이블 비관적 락(Pessimistic Lock)을 배제하고 DB Unique 제약 조건을 활용한 예외 파싱 핸들링으로 락 병목 오버헤드 해소
 > * 음식점 평균 평점 반정규화 및 JPA @Modifying 서브쿼리 벌크 갱신 방식을 도입하여 동시성 문제를 방어하고 실시간 평점 집계 조회 N+1 문제 해결
 > * GitHub Actions, Docker 및 docker-compose 환경을 구축하여 빌드, 이미지 푸시, 서버 원격 배포 프로세스를 자동화한 CI/CD 파이프라인 수립
 
