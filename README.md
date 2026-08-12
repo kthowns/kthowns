@@ -43,7 +43,7 @@
 **OpenAI API 기반 배송 정보 Slack 메세지 전송 기능을 포함한 MSA 클린아키텍처 물류 시스템 백엔드 플랫폼**
 * **관련 링크:** [[Git Repo]](https://github.com/orgs/BaekmaLogistics/repositories)
 * **개발 기간:** 2026.08 (2주)
-* **팀 구성:** 6인 프로젝트 / AI 생성 Slack 메세지 도메인 개발, GitHub 레포지토리 관리, Poly Repo 기반 MSA 서버 배포 및 CI/CD 구축 담당
+* **팀 구성:** 6인 프로젝트 / 15개 Poly Repo 기반 MSA 인프라·CI/CD 총괄 구축, 트러블슈팅 및 AI Slack 메시징 도메인 개발
 * **주요 기술 스택** : Spring Boot 3.5.x, Spring Cloud, Spring AI, PostgreSQL 17, Docker, Nginx, GitHub Actions, OpenAI API
 
 ---
