@@ -12,43 +12,32 @@
 
 ---
 
-## Introduce
-### **협업에 진심입니다**
-- 다수의 해커톤과 팀 단위 프로젝트에서 협업을 주도한 경험이 있습니다.
-- 팀의 분위기에 맞는 가장 적절한 협업 툴을 정의하고 효율적인 소통을 이끌어내고자 합니다.
-
-### **학습을 망설이지 않습니다**
-- 익숙한 기술에 얽매이기 보다는 더 적절하고 표준적인 기술 도입을 망설이지 않습니다.
-- 또한, 담당 포지션 이외의 작업이 필요하다면 곧바로 학습하고 기여하고자 노력합니다.
-
----
-
 ## 📂 Projects
 
 ### 개인 프로젝트 - Mobidic
-**Whisper 모델 기반의 AI 영어 단어장 크로스플랫폼 앱**
+[**Whisper 모델 기반의 AI 영어 단어장 크로스플랫폼 앱**]
 * **관련 링크:** [[Google Play]](https://play.google.com/store/apps/details?id=com.kthowns.mobidic&pcampaignid=web_share) | [[웹 배포 링크]](https://mobidic.kthowns.cloud) | [[Git Repo]](https://github.com/kthowns/mobidic-be)
 * **개발 기간:** 2024.04 ~ 진행 중
 * **팀 구성:** 1인 프로젝트 / 기획, 디자인, 백엔드 API 설계/구현, 앱 개발, 서버 및 인프라 관리 담당
 * **주요 기술 스택** : Spring Boot 3.5.x, MySQL, Redis, QueryDSL, Docker, AWS, Flutter, Python (Whisper STT)
 
-### 팀 스파르타 Java 심화 과정 - Ordering Service API
-**Gemini API 기반 AI 상품 설명 및 리뷰 자동 답글 기능을 갖춘 배달 커머스 백엔드 플랫폼**
-* **관련 링크:** [[Swagger API 명세]](https://order.kthowns.cloud/api/api-docs) | [[Git Repo]](https://github.com/sparta-ordering-10TEAM/ordering-be)
-* **개발 기간:** 2026.07 (2주)
-* **팀 구성:** 5인 프로젝트 / 리뷰 및 AI 도메인 개발, GitHub 레포지토리 관리, Nginx HTTPS 기반 서버 배포 및 CI/CD 구축 담당
-* **주요 기술 스택** : Spring Boot 3.5.x, PostgreSQL 17, Docker, Nginx, GitHub Actions, Gemini API (RestClient)
-
 ### 팀 스파르타 Java 심화 과정 - Logistics MSA API
-**OpenAI API 기반 배송 정보 Slack 메세지 전송 기능을 포함한 MSA 클린아키텍처 물류 시스템 백엔드 플랫폼**
+[**AI Slack 알림 기능을 포함한 MSA 물류 시스템 플랫폼**]
 * **관련 링크:** [[Git Repo]](https://github.com/orgs/BaekmaLogistics/repositories)
 * **개발 기간:** 2026.08 (2주)
 * **팀 구성:** 6인 프로젝트 / 15개 Poly Repo 기반 MSA 인프라·CI/CD 총괄 구축, 트러블슈팅 및 AI Slack 메시징 도메인 개발
 * **주요 기술 스택** : Spring Boot 3.5.x, Spring Cloud, Spring AI, PostgreSQL 17, Docker, Nginx, GitHub Actions, OpenAI API
 
+### 팀 스파르타 Java 심화 과정 - Ordering Service API
+[**AI 상품 설명 및 리뷰 답글 기능을 갖춘 배달 커머스 플랫폼**]
+* **관련 링크:** [[Swagger API 명세]](https://order.kthowns.cloud/api/api-docs) | [[Git Repo]](https://github.com/sparta-ordering-10TEAM/ordering-be)
+* **개발 기간:** 2026.07 (2주)
+* **팀 구성:** 5인 프로젝트 / 리뷰 및 AI 도메인 개발, GitHub 레포지토리 관리, Nginx HTTPS 기반 서버 배포 및 CI/CD 구축 담당
+* **주요 기술 스택** : Spring Boot 3.5.x, PostgreSQL 17, Docker, Nginx, GitHub Actions, Gemini API (RestClient)
+
 ---
 
-## 🎲 Hackathons & Experience
+## 🎲 Experience
 * **[2025 충남톤]** – 환경 친화적 로컬 관광 지도 애플리케이션, **EcoNavi** | **Backend Engineer** [[Git Repo]](https://github.com/kthowns/econavi-app) 
 * **[2025 구름 딥다이브 해커톤 ]** – 지속적인 돌봄과 헬스케어를 위한 모바일 애플리케이션, **Wecare** | **Backend Engineer** [[Git Repo]](https://github.com/kthowns/wecare-app) 
 * **[구름톤 in 판교]** – 컴퓨터 & 개발 커뮤니티 웹 플랫폼 | **Full-stack Developer** [[Git Repo]](https://github.com/kthowns/joribhaejo-web) 
