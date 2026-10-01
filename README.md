@@ -17,7 +17,7 @@
 ### 개인 프로젝트 - Mobidic
 [**Whisper 모델 기반의 AI 영어 단어장 크로스플랫폼 앱**]
 * **관련 링크:** [[Google Play]](https://play.google.com/store/apps/details?id=com.kthowns.mobidic&pcampaignid=web_share) | [[웹 배포 링크]](https://mobidic.kthowns.cloud) | [[Git Repo]](https://github.com/kthowns/mobidic-be)
-* **개발 기간:** 2024.04 ~ 진행 중
+* **개발 기간:** 2025.03 ~ 진행 중
 * **팀 구성:** 1인 프로젝트 / 기획, 디자인, 백엔드 API 설계/구현, 앱 개발, 서버 및 인프라 관리 담당
 * **주요 기술 스택** : Spring Boot 3.5.x, MySQL, Redis, QueryDSL, Docker, AWS, Flutter, Python (Whisper STT)
 
