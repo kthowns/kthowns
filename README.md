@@ -21,20 +21,6 @@
 * **팀 구성:** 1인 프로젝트 / 기획, 디자인, 백엔드 API 설계/구현, 앱 개발, 서버 및 인프라 관리 담당
 * **주요 기술 스택** : Spring Boot 3.5.x, MySQL, Redis, QueryDSL, Docker, AWS, Flutter, Python (Whisper STT)
 
-### 팀 스파르타 Java 심화 과정 - Logistics MSA API
-[**AI Slack 알림 기능을 포함한 MSA 물류 시스템 플랫폼**]
-* **관련 링크:** [[Git Repo]](https://github.com/orgs/BaekmaLogistics/repositories)
-* **개발 기간:** 2026.08 (2주)
-* **팀 구성:** 6인 프로젝트 / 15개 Poly Repo 기반 MSA 인프라·CI/CD 총괄 구축, 트러블슈팅 및 AI Slack 메시징 도메인 개발
-* **주요 기술 스택** : Spring Boot 3.5.x, Spring Cloud, Spring AI, PostgreSQL 17, Docker, Nginx, GitHub Actions, OpenAI API
-
-### 팀 스파르타 Java 심화 과정 - Ordering Service API
-[**AI 상품 설명 및 리뷰 답글 기능을 갖춘 배달 커머스 플랫폼**]
-* **관련 링크:** [[Swagger API 명세]](https://order.kthowns.cloud/api/api-docs) | [[Git Repo]](https://github.com/sparta-ordering-10TEAM/ordering-be)
-* **개발 기간:** 2026.07 (2주)
-* **팀 구성:** 5인 프로젝트 / 리뷰 및 AI 도메인 개발, GitHub 레포지토리 관리, Nginx HTTPS 기반 서버 배포 및 CI/CD 구축 담당
-* **주요 기술 스택** : Spring Boot 3.5.x, PostgreSQL 17, Docker, Nginx, GitHub Actions, Gemini API (RestClient)
-
 ---
 
 ## 🎲 Experience
