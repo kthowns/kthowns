@@ -2,7 +2,7 @@
 
 **Backend Engineer → Full-Stack Developer**
 
-Java와 Spring Boot를 중심으로 개발하고,<br>
+Java와 Spring Boot를 중심으로 백엔드를 개발하고,<br>
 React와 Flutter로 웹과 앱까지 연결합니다.
 
 <a href="https://nohumbit.tistory.com"><img src="https://img.shields.io/badge/Blog-18181B?style=flat-square&logo=tistory&logoColor=white" alt="개발 블로그"></a>
