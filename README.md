@@ -62,7 +62,7 @@ React와 Flutter로 웹과 앱까지 연결합니다.
 
 API 개발과 반응형 프론트엔드, NGINX/Docker 기반 자체 서버 배포를 담당하며 요구사항에 맞게 지속적으로 개발 및 개선 중에 있습니다.
 
-<sub>Next.js · React · TypeScript · Tailwind CSS · Spring Boot · Docker</sub>
+<sub>Next.js · React · TypeScript · Tailwind CSS · Spring Boot · Kotlin · Docker</sub>
 
 <a href="https://kjdc2026.com"><img src="https://img.shields.io/badge/서비스_바로가기-FF483C?style=for-the-badge&logo=googlechrome&logoColor=white" alt="공주대 졸업전시회 서비스 바로가기"></a>
 
