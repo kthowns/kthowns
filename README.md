@@ -9,32 +9,3 @@
 | **Database** | <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/PgSQL-336791?style=flat&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white"> | **Frontend/App** <br> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white"> <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black"> |
 
 </div>
-
----
-
-## 📂 Projects
-
-### 개인 프로젝트 - Mobidic
-[**Whisper 모델 기반의 AI 영어 단어장 크로스플랫폼 앱**]
-* **관련 링크:** [[Google Play]](https://play.google.com/store/apps/details?id=com.kthowns.mobidic&pcampaignid=web_share) | [[웹 배포 링크]](https://mobidic.kthowns.cloud) | [[Git Repo]](https://github.com/kthowns/mobidic-be)
-* **개발 기간:** 2025.03 ~ 진행 중
-* **팀 구성:** 1인 프로젝트 / 기획, 디자인, 백엔드 API 설계/구현, 앱 개발, 서버 및 인프라 관리 담당
-* **주요 기술 스택** : Spring Boot 3.5.x, MySQL, Redis, QueryDSL, Docker, AWS, Flutter, Python (Whisper STT)
-
----
-
-## 🎲 Experience
-* **[2025 충남톤]** – 환경 친화적 로컬 관광 지도 애플리케이션, **EcoNavi** | **Backend Engineer** [[Git Repo]](https://github.com/kthowns/econavi-app) 
-* **[2025 구름 딥다이브 해커톤 ]** – 지속적인 돌봄과 헬스케어를 위한 모바일 애플리케이션, **Wecare** | **Backend Engineer** [[Git Repo]](https://github.com/kthowns/wecare-app) 
-* **[구름톤 in 판교]** – 컴퓨터 & 개발 커뮤니티 웹 플랫폼 | **Full-stack Developer** [[Git Repo]](https://github.com/kthowns/joribhaejo-web) 
-* **[2025 구름톤 univ 시즌톤]** – 개인화 청년 맞춤형 커리어 가이드 크로스플랫폼 애플리케이션, **Future-Finder** | **Frontend Engineer** [[Git Repo]](https://github.com/kthowns/2025_SEASONTHON_TEAM_85_FE)
-
----
-
-## 🎖 Awards
-
-* **[구름 DeepDive 풀스택 개발자 과정 4회차]** – 최종 팀프로젝트 **우수상** (Feb 2026)
-* **[대경권 대학생 프로그래밍 대회]** – **동상** (July 2023)
-* **[대구 정보보호경진대회 개인전]** – **우수상** (Dec 2017)
-* **[경북 지방 기능경기대회]** – IT Network System 종목 **은메달** (Apr 2017)
----
