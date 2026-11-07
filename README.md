@@ -1,6 +1,6 @@
 ## Hello, I'm TaeHyeon 👋
 
-**Backend Engineer → Full-Stack Developer**
+**Full-Stack을 지향하는 Backend Engineer**
 
 Java와 Spring Boot를 중심으로 백엔드를 개발하고,<br>
 React와 Flutter로 웹과 앱까지 연결합니다.
